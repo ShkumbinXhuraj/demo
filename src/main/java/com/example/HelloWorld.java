@@ -8,6 +8,7 @@ public class HelloWorld {
         System.out.println("Hello World");
         ObjectUtils.allNotNull(null);
 
+        // Nje Ndryshim Kodi ne Document
     }
 
 }
